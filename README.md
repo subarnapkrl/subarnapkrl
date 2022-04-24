@@ -1,4 +1,6 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<br/>
+<br/>
 <h1 align="left">Hellow 👋, I'm Subarna Pokharel</h1>
 
 🌱 I’m currently learning **Frontend Web Development**🌱
@@ -28,8 +30,4 @@
 
 <br/>
 
-<!-- <a href="https://github.com/subarnapkrl/github-readme-activity-graph"><img alt="SUbara Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subarnapkrl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- -->
-<!--  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=subarnapkrl&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
- <a href="https://github.com/subarnapkrl/gitub-readme-activity-graph"><img alt="Subarna" src="https://activity-graph.herokuapp.com/graph?username=subarnapkrl&bg_color=0D1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+ <a href="https://github.com/subarnapkrl?tab=repositories"><img alt="Subarna" src="https://activity-graph.herokuapp.com/graph?username=subarnapkrl&bg_color=000040&color=ff0080&line=ff0000&point=ffff00&area=true&hide_border=true" /></a>
