@@ -3,9 +3,9 @@
 <br/>
 <h1 align="left">Hellow 👋, I'm Subarna Pokharel</h1>
 
-🌱 I’m currently learning **Game Development**🌱
+🎮🕹️👾 I’m currently learning **Game Development** 🎮🕹️👾
 
-👯 I’m looking to collaborate on **many open source projects**👯
+👨🏻‍💻🖥️ I’m looking to collaborate on **many open source projects** 👨🏻‍💻🖥️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
