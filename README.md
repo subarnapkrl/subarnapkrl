@@ -1,11 +1,16 @@
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%  "  />
+</div>
 <br/>
 <br/>
-<h1 align="left">Hellow 👋, I'm Subarna Pokharel</h1>
+<div align="center">
+<img align="center" src="https://en.bloggif.com/tmp/c3d40224c3ba0791d3b95f8e55d095aa/text.gif?16600430129">
+</div>
+<div align="center">
+<img align="center" src="https://en.bloggif.com/tmp/a1e017495504687aa695c346f929dc00/text.gif?1660043163">
+</div>
 
-🎮🕹️👾 I’m currently learning **Game Development** 🎮🕹️👾
-
-👨🏻‍💻🖥️ I’m looking to collaborate on **many open source projects** 👨🏻‍💻🖥️
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +23,15 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <br/>
 
+<br/>
+
+<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subarnapkrl&show_icons=true&theme=dark&locale=en&layout=compact" alt="subarnapkrl" /></p>
+
+<br/>
+
+<br/>
 
 <br/>
 
@@ -26,7 +39,15 @@
 
 <br/>
 
+<br/>
+
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subarnapkrl&theme=dark" alt="subarnapkrl" /></p>
+
+<br/>
+
+<br/>
 
 <br/>
 
