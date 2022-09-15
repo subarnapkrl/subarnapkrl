@@ -4,11 +4,11 @@
 <br/>
 <br/>
 <div align="center">
-<img align="center" src="https://en.bloggif.com/tmp/c3d40224c3ba0791d3b95f8e55d095aa/text.gif?16600430129">
+
 </div>
 <br/>
 <div align="center">
-<img align="center" src="https://en.bloggif.com/tmp/a1e017495504687aa695c346f929dc00/text.gif?1660045264">
+
 </div>
 
 <br/>
