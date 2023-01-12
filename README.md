@@ -7,15 +7,8 @@
 
 </div>
 <br/>
-<div align="center">
-<h2>
- This is my generation: 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙤𝙣 𝙕<br/>
- Every single one of us has the entire knowledge of humankind in their pocket.<br/>
- We can get famous with one click, or we can change the world from our bedrooms.<br/>
- Limitless technological possibilities. And what do we do with it?<br/>
- 𝙁𝙖𝙘𝙚 𝙎𝙬𝙖𝙥
- </h2>
- </div>
+
+ 
 
 <div align="center">
 
